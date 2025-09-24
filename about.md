@@ -1,8 +1,6 @@
 ---
-layout: page
-title: About
-nav_exclude: false
-description: Course policies and information.
+layout: forward
+target: https://brown-palm.github.io/csci2470_f25
 ---
 
 # Deep Learning

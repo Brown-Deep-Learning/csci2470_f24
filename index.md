@@ -1,10 +1,6 @@
 ---
-layout: home
-title: CS 2952N
-nav_exclude: true
-seo:
-  type: Course
-  name: Just the Class
+layout: forward
+target: https://brown-palm.github.io/csci2470_f25
 ---
 
 # Deep Learning
