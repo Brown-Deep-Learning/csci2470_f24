@@ -1,11 +1,17 @@
 ---
-layout: forward
-target: https://brown-palm.github.io/csci2470_f25
+layout: page
+title: About
+nav_exclude: false
+description: Course policies and information.
 ---
 
 # Deep Learning
 
 ---
+
+## [Latest Course Website](https://brown-palm.github.io/csci2470_f25)
+
+This website is for Fall 2024.
 
 ## Time and Location
 
